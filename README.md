@@ -6,19 +6,3 @@ Based on P.Gimeno-Estivill, T.Lappi, H.Mäntysaari, [Phys.Rev.D 110 (2024) 9, 09
 
 ***
 
-## Building
-Requires
-- Cmake
-- GSL
-
-How to compile:
-```
-mkdir build
-cd build
-cmake ..
-make
-```
-This generates a library build/lib/libamplitude.a that you can link in your own program.
-
-### Questions and comments
-Please send an email to patricia.p.gimenoestivill@jyu.fi
